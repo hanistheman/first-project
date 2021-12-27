@@ -1,2 +1,1 @@
-# first-project
-first project ever. 
+I am a person who wants to program software. 
