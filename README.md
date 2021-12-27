@@ -1,1 +1,3 @@
-I am a person who wants to program software. 
+Hello. 
+I am Han. 
+I love to program. 
